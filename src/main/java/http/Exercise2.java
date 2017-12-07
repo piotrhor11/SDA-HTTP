@@ -14,8 +14,6 @@ public class Exercise2 {
 
     public static void main(String[] args) throws IOException {
 
-        //Zad2
-
         System.out.println("Enter the name of the country you wish to know about:");
         Scanner scanner = new Scanner(System.in);       //example: Poland
         String country = scanner.nextLine();
@@ -36,7 +34,7 @@ public class Exercise2 {
 
 
     }
-    //Todo - Not well formating when dealing with String Arrays in JSONs
+    //Not well formating when dealing with String Arrays in JSONs
     public static void printJson(Object o, int space) {
         if (o instanceof JSONObject) {
             System.out.println();
