@@ -1,4 +1,4 @@
-package http;
+package commons;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.http.HttpEntity;

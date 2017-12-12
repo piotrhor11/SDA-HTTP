@@ -1,5 +1,6 @@
 package http;
 
+import commons.HTTPMethods;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
