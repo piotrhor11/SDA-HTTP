@@ -1,7 +1,5 @@
 package commons;
 
-import sun.net.www.content.text.Generic;
-
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.Properties;

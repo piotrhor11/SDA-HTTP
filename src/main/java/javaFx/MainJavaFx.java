@@ -1,3 +1,4 @@
+// Works only with JDK8, doesn't work with JDK9 even under language level 8
 package javaFx;
 
 import javafx.application.Application;
